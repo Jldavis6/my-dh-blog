@@ -18,16 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title 
-email: your-email@example.com 
+title: Jack Davis's DH Blog
+email: jack.davis@tufts.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/blog-template" # the name of you gh repository CHANGE THIS
+  Welcome to my super cool Digital Humanities blog where I'll post super cool stuff!
+baseurl: "/my-dh-blog" # the name of you gh repository CHANGE THIS
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
-github_username:  
+github_username:  Jldavis6
 
 # Build settings
 theme: minima
