@@ -9,16 +9,16 @@ Below you will find my Python script designed to count the words in Gibbon's Ris
 
 Steps to take:
 
-Get texts in raw form
-Print all the lines
-Get words from lines
-Instantiate dictionary
-Make if/else command with dictionary to store data
-Sort all the words
-Print words with frequency
-Get rid of all lowercase words and words that, if lowercase, were in the word list (The) - if you find The in lowercase, get rid of The
-Print words
-Generalize everything above to be a replicable function
+1. Get texts in raw form
+2. Print all the lines
+3. Get words from lines
+4. Instantiate dictionary
+5. Make if/else command with dictionary to store data
+6. Sort all the words
+7. Print words with frequency
+8. Get rid of all lowercase words and words that, if lowercase, were in the word list (The) - if you find The in lowercase, get rid of The
+9. Print words
+10. Generalize everything above to be a replicable function
 
 ```
 !git clone https://github.com/msaxton/gibbon-decline-and-fall-text.git
